@@ -64941,9 +64941,8 @@ h=i.length
 g=J.my(h,t.l7)
 for(f=0;f<h;++f){e=i[f]
 g[f]=new A.p3(e.c,e.a,e.b,s,c)}s=A.cl(A.a([r,B.f4,new A.cM(B.e2,A.e8(A.a([q,o,B.f5,n,B.aC,m,B.aC,p,B.bq,k,B.bq,j,B.aC,A.cO(A.cl(g,B.I,B.x,B.K),c,500),B.aC],l),B.a3,B.x),c),B.dy,new A.cM(new A.b9(0,d.as,20,40),A.adb(d.r,300),c)],l),B.a3,B.x,B.K)
-r=d.ax.length
-q=c
-return A.kD(A.e8(A.a([s,A.ais(B.be,-1,A.cO(new A.E_(new A.a1y(new A.ZL(d),r,!0,!0,!0,c),c,B.av,!1,c,c,q,c,!1,c,0,c,r,B.ao,B.vr,c,B.b3,c),400,1/0),d.c)],l),B.I,B.x),new A.bC(b.ax.CW,c,c,c,a,c,B.O),B.b5)}}
+r=c
+return A.kD(A.e8(A.a([s,A.ais(B.be,-1,A.cO(new A.E_(new A.a1y(new A.ZL(d),5,!0,!0,!0,c),c,B.av,!1,c,c,r,c,!1,c,0,c,5,B.ao,B.vr,c,B.b3,c),400,1/0),d.c)],l),B.I,B.x),new A.bC(b.ax.CW,c,c,c,a,c,B.O),B.b5)}}
 A.ZL.prototype={
 $2(a,b){return A.adb(this.a.ax[b],null)},
 $S:379}
@@ -74329,9 +74328,9 @@ s($,"ayV","ac1",()=>A.aln(0.78)/A.aln(0.9))
 s($,"aCg","anT",()=>{var q=t.K
 return new A.a25(new A.Sb(A.z(q,A.W("a7<bf>")),A.z(q,t.V4)))})
 s($,"aCj","anU",()=>new A.Zm(A.z(t.N,A.W("a7<bf?>?(bf?)"))))
-r($,"aCd","afz",()=>{var q="q.watt - powerbank sharing",p="Mobile developer",o="5 months",n="Uzbek, Russian, English",m="Uzbekistan",l="Play Store",k="assets/icons/play_store.svg",j="App Store",i="assets/icons/app_store.svg",h=t.s,g=A.ai4(A.a(["assets/qwatt/Intro.png","assets/qwatt/5.png","assets/qwatt/4.png","assets/qwatt/2.png","assets/qwatt/3.png"],h)),f=A.W("w<FB>")
+r($,"aCd","afz",()=>{var q="q.watt - powerbank sharing",p="Mobile developer",o="5 months",n="Uzbek, Russian, English",m="Uzbekistan",l="Play Store",k="assets/icons/play_store.svg",j="App Store",i="assets/icons/app_store.svg",h=t.s,g=A.ai4(A.a(["assets/qwatt/intro.png","assets/qwatt/2.png","assets/qwatt/3.png","assets/qwatt/4.png","assets/qwatt/1.png"],h)),f=A.W("w<FB>")
 g=A.ai5("q.watt",A.ai6(p,q,B.zW,m,"q.watt company offers its powerbanks to charge your gadgets.\nIf you are tired of constantly charging your personal powerbank, this is the perfect solution for you. Go to any q.watt station, scan the QR code and enjoy a light and convenient power bank that is always fully charged.",o,"assets/images/power_bank_logo.png",40,n,A.a([A.FC(new A.abM(),k,l),A.FC(new A.abN(),i,j),A.FC(new A.abO(),"assets/icons/app_gallery.svg","App Gallery")],f),g,q,"8"))
-h=A.ai4(A.a(["assets/delever/Intro.png","assets/delever/4.png","assets/delever/2.png","assets/delever/3.png"],h))
+h=A.ai4(A.a(["assets/delever/intro.png","assets/delever/1.png","assets/delever/3.png","assets/delever/4.png","assets/delever/2.png"],h))
 return A.a([g,A.ai5("delever",A.ai6(p,"Delever",B.Ag,m,"The application is part of the Delever software package for managing delivery of orders.\nCapabilities:\n- The courier in real time receives all changes and new tasks directly to your smartphone.\n- All the necessary information is available in the application: address and delivery time, recipient information, order amount, comments.\n- The courier can easily call the customer simply by pressing the call button.\n- If the task is not completed, the courier may additionally indicate the reason for the failure.",o,"assets/images/courier.png",170,n,A.a([A.FC(new A.abP(),k,l),A.FC(new A.abQ(),i,j)],f),h,"Delever for Couriers","8"))],A.W("w<FD>"))})
 s($,"azJ","aml",()=>new A.D())
 s($,"aAi","amE",()=>new A.EB("newline expected"))

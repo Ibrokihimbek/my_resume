@@ -64994,7 +64994,7 @@ L(a){var s=null,r=t.D
 return A.GT(s,A.L(a).ax.b,A.T4(A.a([new A.nu(new A.cM(B.hb,A.e8(A.a([B.f6,A.cl(A.a([A.e9(s,s,B.r,s,s,new A.bC(A.L(a).ax.f,s,s,s,s,s,B.O),s,20,s,s,s,s,20),B.bR,A.bd("Resume",A.bi(s,s,A.L(a).ax.db,s,s,s,s,s,s,s,s,36,s,s,B.a5,s,s,!0,s,s,s,s,s,s,s,s),s)],r),B.I,B.d4,B.K),B.aV,A.cl(A.a([A.bd("Experience",A.bi(s,s,A.L(a).ax.db,s,s,s,s,s,s,s,s,18,s,s,B.a5,s,s,!0,s,s,s,s,s,s,s,s),s),new A.Cu(new A.a8X(this),s)],r),B.I,B.d5,B.K),B.aV,B.Ec,B.f5,B.Ed,B.aV,new A.hV(B.fy,s,s,A.bd("Education",A.bi(s,s,A.L(a).ax.db,s,s,s,s,s,s,s,s,18,s,s,B.a5,s,s,!0,s,s,s,s,s,s,s,s),s),s),B.aV,B.Dr,B.f6,B.Lq,B.aV],r),B.I,B.x),s),s)],r)))}}
 A.a8X.prototype={
 $0(){var s=document.createElement("a")
-s.href="https://davronbekov.netlify.app/assets/assets/cv/Ibrohimbek_CV.pdf"
+s.href="https://davronbekov.netlify.app/assets/assets/cv/ibrohimbek_cv.pdf"
 s.download="Ibrohimbek_CV.pdf"
 s.click()},
 $S:0}
